@@ -1,0 +1,127 @@
+h1{
+    text-align: center;
+}
+#site{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(231, 192, 144);
+}
+p{
+    text-align: center;
+}
+.cor {
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+}
+#foto1 {
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: right;
+}
+#foto2{
+    width: 300px;
+    height: 200px;
+}
+.ponto{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+}
+.total{
+    display: flex;
+    justify-content: space-around;
+}
+h3{
+    text-align: center;
+}
+.ws{
+    background-color: rgb(255, 255, 255);
+}
+#mat{
+    text-align: center;
+}
+#adm{
+    text-align: center;
+}
+#foto3{
+    width: 300px;
+    height: 200px;
+}
+.prog{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 350px;
+}
+#pro{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.ws2{
+    background-color: rgb(255, 255, 255);
+}
+.total2{
+    display: flex;
+    justify-content: space-around;
+}
+.pp{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 350px;
+}
+#music{
+    width: 300px;
+    height: 200px;
+}
+.dd{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 350px;
+}
+#book{
+    width: 300px;
+    height: 200px;
+}
+.ff{
+    width: 300px;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+}
+#braid{
+    width: 300px;
+    height: 200px;
+}
+#liv{
+    text-align: center;
+}
+#tra{
+    text-align: center;
+}
+#inst{
+    text-align: center;
+}
+.final{
+    background-color: rgb(255, 255, 255);
+}
+button{
+    background-color: rgb(236, 156, 169);
+    display: flex;
+    justify-content: right;
+    text-decoration-color: rgb(255, 255, 255);
+    border-color: antiquewhite;
+
+
+}
+.hb{
+    text-align: center;
+}
+#botao{
+    text-align: right;
+}
